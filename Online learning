@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-cn">
+ <head>
+  <meta charset="utf-8">
+  <meat name="viewport" conten="width=device-width,initial-scale=1.0">
+  <title>骨架</title>
+ </head>
+ <body>
+  <table width="900" height="490" border="3" align="center">
+   <tr height="100">
+    <th colspan="7"> 学习计划</th>
+   </tr>
+   <tr>
+    <td>星期一</td>
+    <td>星期二</td>
+    <td>星期三</td>
+    <td>星期四</td>
+    <td>星期五</td>
+    <td>星期六</td>
+    <td>日</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+  </table>
+ </body>
+</html>
